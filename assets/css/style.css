@@ -1,0 +1,33 @@
+body{
+	
+	background-image: url("http://1000logos.net/wp-content/uploads/2016/11/Chiefs-Symbol.jpg");
+}
+
+div {
+	background:
+}
+
+.row {
+	margin: 15px;
+	padding: 10px;
+}
+
+
+.jumbotron, .col-md-5 {
+	background: rgba(226, 52, 9, 0.664);
+    color: rgb(254, 255, 169);
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+.col-md-5 {
+	margin: 5px;
+	padding: 5px;
+}
+
+button {
+	color: rgba(126, 116, 27, 0.986);
+
+}
